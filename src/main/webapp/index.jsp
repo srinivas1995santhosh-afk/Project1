@@ -20,7 +20,7 @@
       position: absolute;
       margin: 0;
       font-size: 30px;
-      color: #000;
+      color: #FFF;
       z-index: 2;
       }
       p.top-info {
@@ -42,7 +42,7 @@
       }
      .banner {
       position: relative;
-      height: 400px;
+      height: 150px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
