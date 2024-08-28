@@ -21,7 +21,7 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 30px;
+      font-size: 50px;
       color: #FFF;
       z-index: 2;
       }
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: steelblue;
+      background-color: red;
       position: absolute;
       width: 100%;
       height: 100%;
