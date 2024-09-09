@@ -39,7 +39,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #080;
+      background: #000;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
@@ -54,14 +54,14 @@
       }
       .banner::after {
       content: "";
-      background-color: #000;
+      background-color: #080;
       position: absolute;
       width: 100%;
       height: 100%;
       }
       input, select, textarea {
       margin-bottom: 10px;
-      border: 1px solid #ccc;
+      border: 1px solid #EEE;
       border-radius: 3px;
       }
       input {
