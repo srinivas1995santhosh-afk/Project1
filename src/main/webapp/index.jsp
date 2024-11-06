@@ -54,10 +54,10 @@
       }
       .banner::after {
       content: "";
-      background-color: steelblue;
+      background-color: blue;
       position: absolute;
       width: 100%;
-      height: 200%;
+      height: 80%;
       }
       input, select, textarea {
       margin-bottom: 10px;
