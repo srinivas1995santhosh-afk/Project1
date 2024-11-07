@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <style>
       html, body {
-      min-height: 100%;
+      min-height: 90%;
       }
      <!-- commemt -->
       body, div, form, input, select, p {
@@ -14,9 +14,9 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 40px;
+      font-size: 60px;
       color: #012;
-      line-height: 29px;
+      line-height: 40px;
       }
       h1 {
       position: absolute;
