@@ -36,10 +36,10 @@
       padding: 20px;
       }
       form {
-      width: 100%;
+      width: 200%;
       padding: 20px;
       border-radius: 6px;
-      background: #BBB;
+      background: #ABC;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
