@@ -57,7 +57,7 @@
       background-color: red;
       position: absolute;
       width: 100%;
-      height: 180%;
+      height: 150%;
       }
       input, select, textarea {
       margin-bottom: 10px;
